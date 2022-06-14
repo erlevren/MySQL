@@ -23,7 +23,7 @@ age int
 insert into student values('1000', 'Ali Can', '35');
 insert into student values('1001', 'Ali Veli', '30');
 insert into student values('1002', 'Erol Evren', '37');
-insert into student values('1000', 'Canan Tan', '29');
+insert into student values('1003', 'Canan Tan', '29');
 
 
 select * from student; -- student tablosundaki herseyi getirir. * yerine hangi data'yi girersek onu getirir
